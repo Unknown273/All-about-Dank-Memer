@@ -1,275 +1,240 @@
---------------------  Currency Commands  --------------------
-                        achievement
-                        badges
-                        balance
-                        bankrob
-                        beg
-                        blackjack
-                        bundles
-                        buy
-                        compare
-                        craft
-                        crime
-                        daily
-                        deposit
-                        dig
-                        drop
-                        fish
-                        flashsell
-                        gamble
-                        gift
-                        highlow
-                        hunt
-                        inventory
-                        itemlb
-                        lootbox
-                        lottery
-                        marriage
-                        monthly
-                        multiplier
-                        omega
-                        pet
-                        postmemes
-                        prestige
-                        profile
-                        redeem
-                        remove
-                        rich
-                        scratch
-                        search
-                        sell
-                        share
-                        shop
-                        showcase,
-                        slots
-                        snakeeyes
-                        steal
-                        stream
-                        taxcalc
-                        title
-                        trade
-                        use
-                        vacation,
-                        weekly
-                        withdraw
-                        work
--------------------------------------------------------------
-
-
-
---------------------  Memey Commands  --------------------
-                        4chan
-                        antiantijoke
-                        antijoke
-                        blacktwitter
-                        chucknorris
-                        comics
-                        create
-                        discordmeme
-                        facepalm
-                        joke
-                        meirl
-                        meme
-                        memeeconomy
-                        prequel
-                        pun
-                        sequel
-                        surreal
-                        tifu
-                        wholesome
-                        xkcd
-----------------------------------------------------------
-
-
-
---------------------  Game Commands  --------------------
-                        connect4
-                        fight
-                        gamelb
-                        guess
-                        petfight
-                        rps
-                        tictactoe
-                        trivia
----------------------------------------------------------
-
-
-
---------------------  Fun Commands  --------------------
-                        8ball
-                        clap
-                        collection
-                        dankrate
-                        deletethis
-                        doot
-                        emojify
-                        epicgamerrate
-                        foodporn
-                        gif
-                        google
-                        greentext
-                        hack
-                        howgay
-                        imagine
-                        kill
-                        leetify
-                        lenny
-                        mock
-                        owo
-                        partyfrog
-                        penis
-                        rankthot
-                        waifu
-                        roast
-                        say
-                        showerthoughts
-                        simprate
-                        spoiler
-                        stankrate
-                        uselessweb
-                        vaporwave
---------------------------------------------------------
-
-
-
---------------------  Image Commands  --------------------
-                        abandon
-                        affect
-                        airpods
-                        america
-                        armor
-                        balloon
-                        slap
-                        bed
-                        bongocat
-                        boo
-                        brain
-                        brazzers
-                        byemom
-                        cancer
-                        changemymind
-                        cheating
-                        citation
-                        communism
-                        confusedcat
-                        corporate
-                        crab
-                        cry
-                        dab
-                        dank
-                        deepfry
-                        delete
-                        disability
-                        doglemon
-                        door
-                        egg
-                        excuseme
-                        expanddong
-                        facts
-                        failure
-                        fakenews
-                        fedora
-                        floor
-                        fuck
-                        garfield
-                        gay
-                        goggles
-                        humansgood
-                        inator
-                        invert
-                        ipad
-                        jail
-                        justpretending
-                        kimborder
-                        knowyourlocation
-                        kowalski
-                        laid
-                        letmein
-                        lick
-                        madethis
-                        magik
-                        master
-                        note
-                        nothing
-                        ohno
-                        piccolo
-                        plan
-                        presentation
-                        quote
-                        radialblur
-                        rip
-                        roblox
-                        salty
-                        satan
-                        savehumanity
-                        screams
-                        shit
-                        sickban
-                        slapsroof
-                        sneakyfox
-                        spank
-                        stroke
-                        surprised
-                        sword
-                        thesearch
-                        trash
-                        trigger
-                        tweet
-                        ugly
-                        unpopular
-                        violence
-                        violentsparks
-                        vr
-                        walking
-                        wanted
-                        warp
-                        whodidthis
-                        whoisthis
-                        youtube
-----------------------------------------------------------
-
-
-
---------------------  Utility Commands  --------------------
-                        choose
-                        color
-                        editsnipe
-                        gimmeboost
-                        help
-                        invite
-                        link
-                        notifications
-                        partners
-                        premium
-                        removemydata
-                        rules
-                        serverinfo
-                        snipe
-                        stats
-                        suggest
-                        supportinfo
-                        userinfo
-                        vote
-                        website
-                        whatshard
-------------------------------------------------------------
-
-
-
---------------------  Configuration Commands  --------------------
-                        audit
-                        automeme
-                        machine
-                        ar
-                        disable
-                        disable
-                        enable
-                        winnlog
-                        prefix
-                        premium
-                        server
-                        setting
-------------------------------------------------------------------
-
-
-
+4chan
+8ball
+abandon
+achievement
+affect
+airpods
+america
+antiantijoke
+antijoke
+ar
+armor
+audit
+automeme
+badges
+balance
+balloon
+bankrob
+bed
+beg
+blackjack
+blacktwitter
+bongocat
+boo
+brain
+brazzers
+bundles
+buy
+byemom
+cancer
+changemymind
+cheating
+choose
+chucknorris
+citation
+clap
+collection
+color
+comics
+communism
+compare
+confusedcat
+connect4
+corporate
+crab
+craft
+create
+crime
+cry
+dab
+daily
+dank
+dankrate
+deepfry
+delete
+deletethis
+deposit
+dig
+disability
+disable
+disable
+discordmeme
+doglemon
+door
+doot
+drop
+editsnipe
+egg
+emojify
+enable
+epicgamerrate
+excuseme
+expanddong
+facepalm
+facts
+failure
+fakenews
+fedora
+fight
+fish
+flashsell
+floor
+foodporn
+fuck
+gamble
+gamelb
+garfield
+gay
+gif
+gift
+gimmeboost
+goggles
+google
+greentext
+guess
+hack
+help
+highlow
+howgay
+humansgood
+hunt
+imagine
+inator
+inventory
+invert
+invite
+ipad
+itemlb
+jail
+joke
+justpretending
+kill
+kimborder
+knowyourlocation
+kowalski
+laid
+leetify
+lenny
+letmein
+lick
+link
+lootbox
+lottery
+machine
+madethis
+magik
+marriage
+master
+meirl
+meme
+memeeconomy
+mock
+monthly
+multiplier
+note
+nothing
+notifications
+ohno
+omega
+owo
+partners
+partyfrog
+penis
+pet
+petfight
+piccolo
+plan
+postmemes
+prefix
+premium
+premium
+prequel
+presentation
+prestige
+profile
+pun
+quote
+radialblur
+rankthot
+redeem
+remove
+removemydata
+rich
+rip
+roast
+roblox
+rps
+rules
+salty
+satan
+savehumanity
+say
+scratch
+screams
+search
+sell
+sequel
+server
+serverinfo
+setting
+share
+shit
+shop
+showcase,
+showerthoughts
+sickban
+simprate
+slap
+slapsroof
+slots
+snakeeyes
+sneakyfox
+snipe
+spank
+spoiler
+stankrate
+stats
+steal
+stream
+stroke
+suggest
+supportinfo
+surprised
+surreal
+sword
+taxcalc
+thesearch
+tictactoe
+tifu
+title
+trade
+trash
+trigger
+trivia
+tweet
+ugly
+unpopular
+use
+uselessweb
+userinfo
+vacation,
+vaporwave
+violence
+violentsparks
+vote
+vr
+waifu
+walking
+wanted
+warp
+website
+weekly
+whatshard
+whodidthis
+whoisthis
+wholesome
+winnlog
+withdraw
+work
+xkcd
+youtube
