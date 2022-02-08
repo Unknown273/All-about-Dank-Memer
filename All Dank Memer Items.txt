@@ -1,228 +1,143 @@
---------------------  Phalliac  --------------------
-                        Blue Phallic Object
-                        Golden Phallic Object
-                        Multi Colored Phallic Object
-                        Orange Phallic Object
-                        Pink Phallic Object
-                        Purple Phallic Object
-----------------------------------------------------
-
-
-
---------------------  Pepe Collector  --------------------
-                        Pepe Coin
-                        Pepe Crown
-                        Pepe Medal
-                        Pepe Statue
-                        Pepe Trophy
-                        Rare Pepe
-----------------------------------------------------------
-
-
-
---------------------  Total Tool  --------------------
-                        Box of Sand
-                        Cell Phone
-                        Coin Bomb
-                        Duct Tape
-                        Fake ID
-                        Fishing Pole
-                        Hunting Rifle
-                        Landmine
-                        Laptop
-                        Padlock
-                        Robbers Wishlist
-                        Shovel
-------------------------------------------------------
-
-
-
---------------------  Human Powerup  --------------------
-                        Alcohol
-                        Apple
-                        Bank Note
-                        Candy
-                        Cupid's Big Toe
-                        Fidget Spinner
-                        Life Saver
-                        Lucky Horseshoe
-                        Pizza Slice
-                        Prestige Coin
-                        Shredded Cheese
-                        Streak Freeze
-                        Tidepod
----------------------------------------------------------
-
-
-
---------------------  Streaming Maniac  --------------------
-                        Camera
-                        Green Screen
-                        Headphones
-                        Keyboard
-                        Microphone
-                        Mouse
-                        Ring Light
-                        Sound Card
-------------------------------------------------------------
-
-
-
---------------------  Dev Collector  --------------------
-                        Aetheryx' Flower
-                        Badosz's Card
-                        Bean Mp3 Player
-                        Melmsie's Beard
----------------------------------------------------------
-
-
-
---------------------  Drop Shopper  --------------------
-                        Fart In A Bottle
-                        Holiday Stocking
-                        Pepe Ribbon
-                        Pepe Sus
-                        Sugar Skull
-                        Toilet Paper
---------------------------------------------------------
-
-
-
---------------------  Statistical Improbability  --------------------
-                        Winning Lottery Ticket
-                        Bolt Cutters
-                        Credit Card
-                        Odd Eye
-                        Literally Karen
----------------------------------------------------------------------
-
-
-
---------------------  Boxer  --------------------
-                        Daily Box
-                        Dank Box
-                        God Box
-                        Meme Box
-                        Normie Box
-                        Patreon Box
-                        Wedding Gift
--------------------------------------------------
-
-
-
---------------------  Packer  --------------------
-                        Anti-Rob Pack
-                        Grind Pack
-                        New Player Pack
-                        Patreon Pack
-                        Prestige Pack
---------------------------------------------------
-
-
-
---------------------  Hunter  --------------------
-                        Boar
-                        Deer
-                        Dragon
-                        Duck
-                        Rabbit
-                        Skunk
---------------------------------------------------
-
-
-
---------------------  Fisher  --------------------
-                        Common Fish
-                        Exotic Fish
-                        Jelly Fish
-                        Kraken
-                        Legendary Fish
-                        Rare Fish
-                        Seaweed
---------------------------------------------------
-
-
-
---------------------  Excavator  --------------------
-                        Ant
-                        Fossil
-                        Ladybug
-                        Spider
-                        Stickbug
-                        Worm
------------------------------------------------------
-
-
-
---------------------  Holiday Collector  --------------------
-                        Candy Cane
-                        Christmas Tree
-                        Friend's Gift
-                        Gift Box
-                        Ornament
-                        Santa's Hat
-                        Snowball
-                        Snowflake
--------------------------------------------------------------
-
-
-
---------------------  Collecting Fiend  --------------------
-                        Berries and Cream
-                        Chill Pill
-                        Engagement Ring
-                        Fool's Notif
-                        Golden Corndog
-                        Jacky o' Lanty
-                        Reversal Card
-                        School Urinal
-------------------------------------------------------------
-
-
-
---------------------  Bits and Bobs Collector  --------------------
-                        Bean
-                        Cookie
-                        Corncob
-                        Corndog
-                        Fresh Bread
-                        Garbage
-                        Junk
-                        Literally a Tree
-                        Potato
-                        Trash
--------------------------------------------------------------------
-
-
-
---------------------  Chronic Worker  --------------------
-                        A plus
-                        Ammo
-                        Baby
-                        Ban Hammer
-                        Beaker of sus fluid
-                        Binary
-                        Bottle of Whiskey
-                        Crunchy Taco
-                        Ectoplasm
-                        Energy Drink
-                        Fishing Bait
-                        Law Degree
-                        Like Button
-                        Meme pills
-                        Motivational Poster
-                        Musical Note
-                        Pet Collar
-                        Police Badge
-                        Robbers Mask
-                        Santa's Bag
-                        Shop Coupon
-                        Stack of Cash
-                        Stonk Machine
-                        Tip Jar
-                        Used Diaper
-                        Vaccine
-----------------------------------------------------------
-
-
-
+A plus
+Aetheryx' Flower
+Alcohol
+Ammo
+Ant
+Anti-Rob Pack
+Apple
+Baby
+Badosz's Card
+Ban Hammer
+Bank Note
+Beaker of sus fluid
+Bean
+Bean Mp3 Player
+Berries and Cream
+Binary
+Blue Phallic Object
+Boar
+Bolt Cutters
+Bottle of Whiskey
+Box of Sand
+Camera
+Candy
+Candy Cane
+Cell Phone
+Chill Pill
+Christmas Tree
+Coin Bomb
+Common Fish
+Cookie
+Corncob
+Corndog
+Credit Card
+Crunchy Taco
+Cupid's Big Toe
+Daily Box
+Dank Box
+Deer
+Dragon
+Duck
+Duct Tape
+Ectoplasm
+Energy Drink
+Engagement Ring
+Exotic Fish
+Fake ID
+Fart In A Bottle
+Fidget Spinner
+Fishing Bait
+Fishing Pole
+Fool's Notif
+Fossil
+Fresh Bread
+Friend's Gift
+Garbage
+Gift Box
+God Box
+Golden Corndog
+Golden Phallic Object
+Green Screen
+Grind Pack
+Headphones
+Holiday Stocking
+Hunting Rifle
+Jacky o' Lanty
+Jelly Fish
+Junk
+Keyboard
+Kraken
+Ladybug
+Landmine
+Laptop
+Law Degree
+Legendary Fish
+Life Saver
+Like Button
+Literally Karen
+Literally a Tree
+Lucky Horseshoe
+Melmsie's Beard
+Meme Box
+Meme pills
+Microphone
+Motivational Poster
+Mouse
+Multi Colored Phallic Object
+Musical Note
+New Player Pack
+Normie Box
+Odd Eye
+Orange Phallic Object
+Ornament
+Padlock
+Patreon Box
+Patreon Pack
+Pepe Coin
+Pepe Crown
+Pepe Medal
+Pepe Ribbon
+Pepe Statue
+Pepe Sus
+Pepe Trophy
+Pet Collar
+Pink Phallic Object
+Pizza Slice
+Police Badge
+Potato
+Prestige Coin
+Prestige Pack
+Purple Phallic Object
+Rabbit
+Rare Fish
+Rare Pepe
+Reversal Card
+Ring Light
+Robbers Mask
+Robbers Wishlist
+Santa's Bag
+Santa's Hat
+School Urinal
+Seaweed
+Shop Coupon
+Shovel
+Shredded Cheese
+Skunk
+Snowball
+Snowflake
+Sound Card
+Spider
+Stack of Cash
+Stickbug
+Stonk Machine
+Streak Freeze
+Sugar Skull
+Tidepod
+Tip Jar
+Toilet Paper
+Trash
+Used Diaper
+Vaccine
+Wedding Gift
+Winning Lottery Ticket
+Worm
